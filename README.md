@@ -1,2 +1,2 @@
 # Tea_Testnet_Ape
-My testnet repository
+My testnet repository for Ape project on Tea
